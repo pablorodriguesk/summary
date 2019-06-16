@@ -1,0 +1,53 @@
+Resumão é um app para postagem academica de resumos com finalizade em ajudar o usuario com pouco tempo para estudar determinado assunto
+
+
+o app a principio possui user, resumo e categoria
+
+
+usuario {
+
+    Nome
+    sobrenome
+    sexo
+    apelido
+    e-mail
+    senha
+    status
+    elo
+    formação
+    area de estudo
+    pais
+    estado
+    cidade
+    likendln
+    instgran
+
+
+
+
+
+
+
+}
+
+      Categoria{
+        nome
+      }
+
+
+      resumo{
+
+      nome
+      autor
+      categoria
+      texto
+      data
+      palavras chaves
+      avaliação
+      likes
+      comentario
+
+
+
+
+      }
