@@ -50,3 +50,11 @@ class Summary(models.Model):
 
     def __str__(self):
         return self.titulo
+    
+    
+    class discart(models.Model):
+        Discart = models.charfild(max_langth=300)
+        
+        def __str__(self):
+            return sel.discart
+        
